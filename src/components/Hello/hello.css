@@ -1,0 +1,14 @@
+h1{
+    color: red;
+}
+
+h2{
+    color: blue;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    /*小图片*/
+    background-image: url(./images/haha.png);
+}
